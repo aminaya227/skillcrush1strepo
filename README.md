@@ -1,1 +1,1 @@
-My first coding projects done with Skillcrush. Practicing HTML and CSS
+parcticing github with Skillcrush
